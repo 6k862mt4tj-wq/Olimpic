@@ -1,0 +1,15 @@
+.main {
+    position: relative;
+    width: 340px;
+    height: 150px;
+    margin: 50px auto;
+}
+
+.ring {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 10px solid;
+    box-sizing: border-box;
+}
